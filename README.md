@@ -87,8 +87,7 @@ len(cities)
 
 ```python
 # Create a settings object with your API key and preferred units
-api_key = "ef6bc8d0af625e774940468b1c5f8dda"
-# api_key = "25bc90a1196e6f153eece0bc0b0fc9eb" # Duy's
+api_key = "APIkeyGoesHere"
 url = "http://api.openweathermap.org/data/2.5/weather?"
 units = "imperial"
 ```
