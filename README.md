@@ -77,7 +77,7 @@ len(cities)
 # cities
 ```
 
-
+![](assets/md images/WeatheryPy_01_RandomCoordinates.png)
 
 
     692
