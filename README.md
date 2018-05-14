@@ -1,5 +1,20 @@
-
 # WeatherPy
+
+## What's the weather like as we approach the equator?
+
+In this project, I built a python solution that visualized weather on over 500 cities accross the world of varying distance from the equator.  To accomplish this, I built python logic that generates latitudes and longitudes evenly spreadout throughout the entire planet as well as evenly spread out from each other.
+
+With these generated coordinates, I used the OpenWeatherMap API to create a weather model that analyzed the relationship between these atmospherical factors, using scatterplots:
+
+* Temperature (F) vs. Latitude
+
+* Humidity (%) vs. Latitude
+
+* Cloudiness (%) vs. Latitude
+
+* Wind Speed (mph) vs. Latitude 
+
+  -----------------------------------------------------
 
 ### Highlights:
 
