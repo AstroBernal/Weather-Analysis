@@ -57,7 +57,7 @@ lat_lon.columns = ["lat","lon"]
 lat_lon.head()
 ```
 
-![](assets/md images/WeatheryPy_01_RandomCoordinates.png)
+![](assets/md_images/WeatheryPy_01_RandomCoordinates.png)
 
 
 ```python
@@ -77,12 +77,10 @@ len(cities)
 # cities
 ```
 
-![](assets/md images/WeatheryPy_01_RandomCoordinates.png)
+![](assets/md_images/WeatheryPy_01_RandomCoordinates.png)
 
 
     692
-
-
 
 
 ```python
@@ -127,7 +125,7 @@ weather_df.head()
 
 Sample print out of the python statement that returns all cities and their respective weather
 
-![](assets/md images/WeatheryPy_02_ListofCitiesAndWeather.png)
+![](assets/md_images/WeatheryPy_02_ListofCitiesAndWeather.png)
 
 
 ```python
@@ -210,3 +208,4 @@ plt.show()
 This project can be found on my website:
 
 http://www.juliobernal.com/Weather-Analysis
+
